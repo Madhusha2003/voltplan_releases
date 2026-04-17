@@ -1,0 +1,18 @@
+# Flutter web build output .gitignore
+# This folder contains generated build artifacts
+
+# Build artifacts
+*.log
+.DS_Store
+Thumbs.db
+
+# Temporary files
+.last_build_id
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
